@@ -7,16 +7,16 @@ import "bootstrap/dist/css/bootstrap.css";
 
 import { BrowserRouter as Router , Routes, Route, Link } from "react-router-dom";
 
-import EditProduct from "./components/product/edit-product";
-import ProductList from "./components/product/view-product";
-import CreateProduct from "./components/product/create-product";
+import EditProduct from "./components/product/edit.component";
+import ProductList from "./components/product/list.component";
+import CreateProduct from "./components/product/create.component";
 
 function App() {
   return (<Router>
     <Navbar bg="primary">
       <Container>
         <Link to={"/"} className="navbar-brand text-white">
-          Basic Crud App
+          Laravel- React-Crud
         </Link>
       </Container>
     </Navbar>
