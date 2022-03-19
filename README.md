@@ -24,7 +24,7 @@ A crud based laravel app to learn how to integrate react and other important rea
 
 
 ## Screenshots
-<img src="reactcrud.png" alt="Laravel React CRUD" />
+<img src="https://ibb.co/2NQktkk" alt="Laravel React CRUD" />
 
 
 
