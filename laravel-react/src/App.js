@@ -13,7 +13,7 @@ import CreateProduct from "./components/product/create.component";
 
 function App() {
   return (<Router>
-    <Navbar bg="primary">
+    <Navbar bg="dark">
       <Container>
         <Link to={"/"} className="navbar-brand text-white">
           Laravel- React-Crud
