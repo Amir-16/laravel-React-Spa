@@ -24,15 +24,13 @@ A crud based laravel app to learn how to integrate react and other important rea
 
 
 ## Screenshots
-![alt text](https://raw.githubusercontent.com/arifszn/react-laravel/main/public/assets/images/screenshots/1.png)
-<br />
-<br />
+<img src="public/reactcrud.png" alt="Laravel React CRUD" />
+
+
 
 ***
 
-![alt text](https://raw.githubusercontent.com/arifszn/react-laravel/main/public/assets/images/screenshots/2.png)
-<br />
-<br />
+
 
 ## Installation
 - Run ```git clone https://github.com/Amir-16/laravel-React-Crud.git```
